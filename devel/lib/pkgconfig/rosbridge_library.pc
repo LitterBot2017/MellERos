@@ -1,0 +1,8 @@
+prefix=/home/nima/Code/Ros/melle_ws/devel
+
+Name: rosbridge_library
+Description: Description of rosbridge_library
+Version: 0.7.16
+Cflags: -I/home/nima/Code/Ros/melle_ws/devel/include
+Libs: -L/home/nima/Code/Ros/melle_ws/devel/lib 
+Requires: message_runtime std_msgs geometry_msgs

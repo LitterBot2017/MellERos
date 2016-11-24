@@ -1,0 +1,14 @@
+To run:
+
+
+rosrun melle heartbeat
+roslaunch rosbridge_server rosbridge_websocket.launch
+rosrun rosserial_python serial_node.py /dev/ttyACM1
+
+
+If you ever make a modification to ROS message, be sure to regenerate the message file:
+
+cd MellEArduino/Main
+rm -rf ros_lib
+rosrun rosserial_arduino make_libraries.py .
+

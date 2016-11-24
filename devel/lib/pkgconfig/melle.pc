@@ -1,0 +1,8 @@
+prefix=/home/nima/Code/Ros/melle_ws/devel
+
+Name: melle
+Description: Description of melle
+Version: 0.0.0
+Cflags: -I/home/nima/Code/Ros/melle_ws/devel/include
+Libs: -L/home/nima/Code/Ros/melle_ws/devel/lib 
+Requires: message_runtime

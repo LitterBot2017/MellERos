@@ -1,0 +1,8 @@
+prefix=/home/nima/Code/Ros/melle_ws/install
+
+Name: rosbridge_server
+Description: Description of rosbridge_server
+Version: 0.7.16
+Cflags: 
+Libs: -L/home/nima/Code/Ros/melle_ws/install/lib 
+Requires: 

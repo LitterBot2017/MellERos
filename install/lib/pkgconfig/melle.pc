@@ -1,0 +1,8 @@
+prefix=/home/nima/Code/Ros/melle_ws/install
+
+Name: melle
+Description: Description of melle
+Version: 0.0.0
+Cflags: -I/home/nima/Code/Ros/melle_ws/install/include
+Libs: -L/home/nima/Code/Ros/melle_ws/install/lib 
+Requires: 

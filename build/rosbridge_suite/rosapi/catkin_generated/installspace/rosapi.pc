@@ -1,0 +1,8 @@
+prefix=/home/nima/Code/Ros/melle_ws/install
+
+Name: rosapi
+Description: Description of rosapi
+Version: 0.7.16
+Cflags: -I/home/nima/Code/Ros/melle_ws/install/include
+Libs: -L/home/nima/Code/Ros/melle_ws/install/lib 
+Requires: message_runtime

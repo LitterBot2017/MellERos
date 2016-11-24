@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nima/Code/Ros/melle_ws/src/melle/include/restclient-cpp/source/restclient.cc
+restclient-cpp/restclient.h
+/home/nima/Code/Ros/melle_ws/src/melle/include/restclient-cpp/source/restclient-cpp/restclient.h
+curl/curl.h
+-
+restclient-cpp/version.h
+/home/nima/Code/Ros/melle_ws/src/melle/include/restclient-cpp/source/restclient-cpp/version.h
+restclient-cpp/connection.h
+/home/nima/Code/Ros/melle_ws/src/melle/include/restclient-cpp/source/restclient-cpp/connection.h
+
